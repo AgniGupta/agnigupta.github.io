@@ -1,0 +1,86 @@
+* {
+    font-family: Roboto,sand-serif;
+
+  
+}
+
+body {
+    background: url('/21458245_1348987008532289_6239333590107584935_o.jpg') right  /cover no-repeat ;
+    backdrop-filter: blur(5px);
+    
+}
+.container {
+    width: 900px;
+    margin-left: 225px;
+    color: rgb(0, 0, 0);
+}
+
+.content {
+    margin-top: 75px;
+    width: 70%;
+    float: right;
+}
+
+.tabble {
+    text-align: center;
+    color: rgb(3, 3, 3);
+    margin-left: 325px;
+    
+}
+
+
+
+.text2 {
+    /* float: right; */
+    text-align: right;
+}
+
+.text3 {
+    text-align: center;
+    float: inherit;
+}
+
+.rozklad {
+    text-align: center;
+}
+
+.table {
+
+    display: flex;
+    justify-content: center;
+    border-collapse: collapse;
+    width: 70%;
+
+    
+}
+
+tr, td {
+    border: 2px solid;
+    width: 1500px;
+    height: 100px;
+    text-align: center;
+    background-color: rgb(119, 5, 5);
+    color: #000;
+    
+}  
+
+h1 {
+    text-align: center;
+}
+
+
+
+.one {
+    background-color: green;
+    color: #fff;
+}
+
+.two {
+    background-color: red;
+    color: #fff;
+}
+
+.three {
+    background-color: blue;
+    color: #fff;
+}
